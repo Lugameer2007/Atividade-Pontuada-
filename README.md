@@ -158,9 +158,8 @@ programa
                         escreva("Parcela ", contador, ": R$ ", parcela, "\n")
                         contador = contador + 1
                     }
-			          }
-		        }
+			     }
+		     }
         }
     }
-	}
 }
